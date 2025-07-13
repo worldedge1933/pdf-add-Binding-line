@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+main.build/
+main.dist/
+main.onefile-build/
+pdf奇偶页平移工具.zip
+Chapter 3 周期信号的傅里叶级数表示.pdf
