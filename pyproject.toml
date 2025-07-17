@@ -6,6 +6,6 @@ readme = "README.md"
 requires-python = "==3.11.5"
 dependencies = [
     "flet==0.28.3",
-    "pip>=25.1.1",
+    "flet-desktop>=0.28.3",
     "pypdf2==3.0.1",
 ]
